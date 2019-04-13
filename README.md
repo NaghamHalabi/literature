@@ -58,4 +58,4 @@
 [Kafka on the Shore]: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
 [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
 [1984]: https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/
-[Man’s Search for Meaning]: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X
+[Man’s Search for Meaning]: https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
